@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-1 bit behvioural adder
+1 bit behavioural adder
 
 ## How to test
 
