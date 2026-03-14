@@ -3,7 +3,6 @@
 
 library ieee; 
 use ieee.std_logic_1164.all;  
-use IEEE.STD_LOGIC_unsigned.ALL;
 use IEEE.NUMERIC_STD.ALL;
 
 entity tt_um_1bbCR is  
