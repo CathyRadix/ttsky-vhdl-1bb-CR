@@ -19,7 +19,7 @@ port(
 );  
 end entity tt_um_1bbCR;  
 
-architecture Behavioral of tt/_um_1bbCR is   
+architecture Behavioral of tt_um_1bbCR is   
  
 signal tmp: std_logic_vector(1 downto 0);
  
